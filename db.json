@@ -83,6 +83,83 @@
       "description": "Venmo, Pay Roommate for Rent",
       "category": "Housing",
       "amount": -975
+    },
+    {
+      "id": "1f983f0f-9b61-4dd4-bd39-0aa3d5ff77db",
+      "date": "2024-08-05",
+      "description": "",
+      "category": "",
+      "amount": 0
+    },
+    {
+      "id": "24e65b1d-45c9-4212-b692-71883cf2a258",
+      "date": "2024-08-05",
+      "description": "",
+      "category": "",
+      "amount": ""
+    },
+    {
+      "id": "5fdece57-975b-4c4b-8fef-2634c2bf6134",
+      "date": "2024-08-05",
+      "description": "",
+      "category": "",
+      "amount": ""
+    },
+    {
+      "id": "e99bb511-256d-4c13-bea1-bbca7e4ab89d",
+      "date": "2024-08-16",
+      "description": "hey",
+      "category": "now",
+      "amount": 23
+    },
+    {
+      "id": "242df11e-8b20-4680-be09-0da8da20e31d",
+      "date": "1997-10-16",
+      "description": "you",
+      "category": "are",
+      "amount": 234
+    },
+    {
+      "id": "145d0327-64ba-44e5-ba56-90e9274320d7",
+      "date": "2024-08-08",
+      "description": "we",
+      "category": "asw",
+      "amount": 34
+    },
+    {
+      "id": "06b5dd8d-1eb1-4265-bf4f-1ae8a8e2d5f4",
+      "date": "2024-08-08",
+      "description": "",
+      "category": "",
+      "amount": ""
+    },
+    {
+      "id": "4774a4ec-4ce3-48fd-870a-537c4ea0738c",
+      "date": "2024-08-08",
+      "description": "",
+      "category": "",
+      "amount": ""
+    },
+    {
+      "id": "3587cfa6-aa6e-46ea-8a43-ad79192402a8",
+      "date": "2026-06-24",
+      "description": "hey",
+      "category": "you",
+      "amount": 56
+    },
+    {
+      "id": "7ec38a48-2eb5-4090-97dc-1e02a8457c78",
+      "date": "2020-08-23",
+      "description": "hey",
+      "category": "now",
+      "amount": 45
+    },
+    {
+      "id": "57d0c9cc-88c8-4144-851c-f3b20ad426a8",
+      "date": "2024-08-08",
+      "description": "hey",
+      "category": "now",
+      "amount": 6767
     }
   ]
 }
